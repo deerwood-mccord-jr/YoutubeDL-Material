@@ -28,7 +28,7 @@
     "config": "^3.2.3",
     "express": "^4.17.3",
     "fluent-ffmpeg": "^2.1.2",
-    "fs-extra": "^9.0.0",
+    "fs-extra": "^11.1.0",
     "jsonwebtoken": "^8.5.1",
     "lowdb": "^1.0.0",
     "md5": "^2.2.1",
